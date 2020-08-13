@@ -1,5 +1,5 @@
 {
-  "name": "@ckeditor/ckeditor5-build-balloon",
+  "name": "c5-truealpha-ckeditor5-editor",
   "version": "21.0.0",
   "description": "The balloon editor build of CKEditor 5 – the best browser-based rich text editor.",
   "keywords": [
